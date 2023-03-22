@@ -1,4 +1,4 @@
-# Android device tree for OPPO OPPO CPH1723 (M6763A)
+# Android device tree for OPPO CPH1723 (M6763A)
 
 ```
 #
